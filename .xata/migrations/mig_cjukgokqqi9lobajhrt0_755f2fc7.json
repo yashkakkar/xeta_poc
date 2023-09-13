@@ -1,0 +1,14 @@
+{
+  "id": "mig_cjukgokqqi9lobajhrt0",
+  "parentID": "mig_cjukglsqqi9lobajhrs0",
+  "checksum": "1:755f2fc76dd07de4e25bccb51372be277dc0749b40723da3cfa3f16b009f145f",
+  "operations": [
+    {
+      "renameColumn": {
+        "newName": "companyName",
+        "oldName": "CompanyName",
+        "table": "job"
+      }
+    }
+  ]
+}

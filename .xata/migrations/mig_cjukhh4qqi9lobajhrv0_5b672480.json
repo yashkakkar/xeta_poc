@@ -1,0 +1,16 @@
+{
+  "id": "mig_cjukhh4qqi9lobajhrv0",
+  "parentID": "mig_cjukgokqqi9lobajhrt0",
+  "checksum": "1:5b672480235ecfb340a8e3070bd1e09609c1beb3a7530c3264af0a6874f6c9d6",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "jobTitle",
+          "type": "string"
+        },
+        "table": "job"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "mig_cjukj93uumjmsgo8bccg",
+  "parentID": "mig_cjukhh4qqi9lobajhrv0",
+  "checksum": "1:c09b8b5ea55f2f9dee48755cd284815a8a4b61ce346f67c5f7706914aae33853",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "jobLink",
+          "type": "string"
+        },
+        "table": "job"
+      }
+    }
+  ]
+}

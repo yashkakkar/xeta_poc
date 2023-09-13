@@ -1,0 +1,16 @@
+{
+  "id": "mig_cjukjesqqi9lobajhs00",
+  "parentID": "mig_cjukj93uumjmsgo8bccg",
+  "checksum": "1:822ba87cce034c9e210cb90db59bb630bb8362478de3ccca620b6ab5b5e6813f",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "geography",
+          "type": "string"
+        },
+        "table": "job"
+      }
+    }
+  ]
+}
